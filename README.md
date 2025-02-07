@@ -1,15 +1,15 @@
-🚀 About Me
+## 🚀 About Me
 🔹 AI Enthusiast | Exploring the depths of LLMs, NLP, and Deep Learning
 🔹 Passionate about building AI-powered solutions for real-world problems
 🔹 Model Optimization & Prompt Engineering | Making AI more efficient
 🔹 Interested in RAG (Retrieval-Augmented Generation) & Vector Embeddings
 🔹 Love working on Neural Networks, Transformers & Generative AI
 
-💡 Full-Stack Development
+## 💡 Full-Stack Development
 🔹 Experienced in MERN & Next.js for building scalable applications
 🔹 Integrating AI models into full-stack solutions for seamless experiences
 
-📌 Let’s Connect!
+## 📌 Let’s Connect!
 📩 Always open to AI-driven collaborations 🚀
 
 ## 🌐 Socials:
