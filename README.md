@@ -1,6 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on Self Projects <br>👯 I’m looking to collaborate on Team Projects <br>🤝 I’m looking for help with AI Development<br>🌱 I’m currently learning MERN Stack<br>⚡ Fun fact Good Team Player
+🚀 About Me
+🔹 AI Enthusiast | Exploring the depths of LLMs, NLP, and Deep Learning
+🔹 Passionate about building AI-powered solutions for real-world problems
+🔹 Model Optimization & Prompt Engineering | Making AI more efficient
+🔹 Interested in RAG (Retrieval-Augmented Generation) & Vector Embeddings
+🔹 Love working on Neural Networks, Transformers & Generative AI
 
+💡 Full-Stack Development
+🔹 Experienced in MERN & Next.js for building scalable applications
+🔹 Integrating AI models into full-stack solutions for seamless experiences
+
+📌 Let’s Connect!
+📩 Always open to AI-driven collaborations 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sarathi20) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Sarathi20) 
