@@ -13,7 +13,7 @@
 ## 📌 Let’s Connect!<br>
 📩 Always open to AI-driven collaborations 🚀
 
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sarathi20) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Sarathi20) 
 
