@@ -8,7 +8,7 @@ Artificial Intelligence and Data Science Student
 - 🤖 Love working on Neural Networks, Transformers & Generative AI
 - ⚡ Fun fact: I know German.
 - Social Presence
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/Sarathi20) <br/> [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Sarathi20)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/Sarathi20) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Sarathi20)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
@@ -23,7 +23,6 @@ Artificial Intelligence and Data Science Student
 
 
 ![Sarathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarathi7777&theme=dark&show_icons=true&&hide=issues,contribs)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sarathi7777&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarathi7777&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
