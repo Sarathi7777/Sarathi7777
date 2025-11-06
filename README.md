@@ -8,7 +8,7 @@ Artificial Intelligence and Data Science Student
 - 🌱 AI Enthusiast | Exploring the depths of ML, LLMs, NLP, DL, AI Agents and Agentic AI
 - ✨ Passionate about building AI-powered solutions for real-world problems
 - 🤖 Love working on Neural Networks, Transformers, Generative AI, N8N Workflows
-- ⚡ Fun fact: I know German.
+- ⚡ Fun fact: I know German(Basics).
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/Sarathi20)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Sarathi20)
 
