@@ -2,7 +2,7 @@
 
 ## Hi there 👋 It's me Sarathi
 
-Artificial Intelligence and Data Science Student
+Artificial Intelligence and Data Science undergraduate
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 - 🔭 Here's my [portfolio](https://sarathiportfolio.vercel.app/)                                                 
 - 🌱 AI Enthusiast | Exploring the depths of ML, LLMs, NLP, DL, AI Agents and Agentic AI
